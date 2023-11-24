@@ -1,11 +1,11 @@
-Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-24 21:00 +08
-Nmap scan report for google.com (142.251.220.174)
-Host is up (0.030s latency).
-Other addresses for google.com (not scanned): 2404:6800:4017:801::200e
-rDNS record for 142.251.220.174: mnl07s02-in-f14.1e100.net
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-24 14:06 +08
+Nmap scan report for particlehealth.com (75.2.70.75)
+Host is up (0.062s latency).
+Other addresses for particlehealth.com (not scanned): 99.83.190.102
+rDNS record for 75.2.70.75: aacb0a264e514dd48.awsglobalaccelerator.com
 Not shown: 998 filtered tcp ports (no-response)
 PORT    STATE SERVICE
 80/tcp  open  http
 443/tcp open  https
 
-Nmap done: 1 IP address (1 host up) scanned in 4.91 seconds
+Nmap done: 1 IP address (1 host up) scanned in 6.28 seconds
