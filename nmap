@@ -1,11 +1,11 @@
-Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-24 20:49 +08
-Nmap scan report for google.com (142.251.220.238)
-Host is up (0.027s latency).
-Other addresses for google.com (not scanned): 2404:6800:4017:804::200e
-rDNS record for 142.251.220.238: mnl08s01-in-f14.1e100.net
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-24 20:51 +08
+Nmap scan report for google.com (142.251.220.206)
+Host is up (0.030s latency).
+Other addresses for google.com (not scanned): 2404:6800:4017:803::200e
+rDNS record for 142.251.220.206: mnl07s03-in-f14.1e100.net
 Not shown: 998 filtered tcp ports (no-response)
 PORT    STATE SERVICE
 80/tcp  open  http
 443/tcp open  https
 
-Nmap done: 1 IP address (1 host up) scanned in 4.30 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.64 seconds
